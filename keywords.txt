@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For NeuStorage
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1 - Warna Oranye)
+#######################################
+
+NeuStorage	KEYWORD1
+Storage	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2 - Warna Biru)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+put	KEYWORD2
+get	KEYWORD2
+putInt	KEYWORD2
+getInt	KEYWORD2
+putFloat	KEYWORD2
+getFloat	KEYWORD2
+putBool	KEYWORD2
+getBool	KEYWORD2
+isExists	KEYWORD2
+remove	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
