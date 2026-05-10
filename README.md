@@ -1,3 +1,5 @@
+⚠️ DEPRECATED: This library has been renamed to NeuKV. Please use NeuKV for the latest updates and features.
+
 # NeuStorage
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
